@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|c:\\users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\assets\\unity base project\\fps\\scripts\\game\\managers\\gameflowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|solutionrelative:assets\\unity base project\\fps\\scripts\\game\\managers\\gameflowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|c:\\users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\assets\\unity base project\\fps\\scripts\\gameplay\\playercharactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|solutionrelative:assets\\unity base project\\fps\\scripts\\gameplay\\playercharactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|c:\\users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\assets\\_sae_starting_point\\scripts\\simplebaseenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|solutionrelative:assets\\_sae_starting_point\\scripts\\simplebaseenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|c:\\users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\assets\\unity base project\\fps\\scripts\\game\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|solutionrelative:assets\\unity base project\\fps\\scripts\\game\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|c:\\users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\assets\\unity base project\\fps\\scripts\\game\\shared\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|solutionrelative:assets\\unity base project\\fps\\scripts\\game\\shared\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\assets\\scripts\\shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\assets\\scripts\\spawn eneymy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawn eneymy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\assets\\scripts\\folowers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\folowers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|c:\\users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|c:\\users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\assets\\unity base project\\fps\\scripts\\ui\\uitable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6EDB62-3354-0754-FCFC-E90B28911408}|Assembly-CSharp.csproj|solutionrelative:assets\\unity base project\\fps\\scripts\\ui\\uitable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA02A0E-9B6C-941F-9E46-2B590F3AD2DC}|Assembly-CSharp-Editor.csproj|c:\\users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\assets\\unity base project\\fps\\scripts\\editor\\uitableeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA02A0E-9B6C-941F-9E46-2B590F3AD2DC}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\unity base project\\fps\\scripts\\editor\\uitableeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameFlowManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\Unity Base Project\\FPS\\Scripts\\Game\\Managers\\GameFlowManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Unity Base Project\\FPS\\Scripts\\Game\\Managers\\GameFlowManager.cs",
+              "ToolTip": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\Unity Base Project\\FPS\\Scripts\\Game\\Managers\\GameFlowManager.cs",
+              "RelativeToolTip": "Assets\\Unity Base Project\\FPS\\Scripts\\Game\\Managers\\GameFlowManager.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowE0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:39:31.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerCharacterController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\Unity Base Project\\FPS\\Scripts\\Gameplay\\PlayerCharacterController.cs",
+              "RelativeDocumentMoniker": "Assets\\Unity Base Project\\FPS\\Scripts\\Gameplay\\PlayerCharacterController.cs",
+              "ToolTip": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\Unity Base Project\\FPS\\Scripts\\Gameplay\\PlayerCharacterController.cs",
+              "RelativeToolTip": "Assets\\Unity Base Project\\FPS\\Scripts\\Gameplay\\PlayerCharacterController.cs",
+              "ViewState": "AQIAAG4BAAAAAAAAAAAAAIwBAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:34:46.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\Unity Base Project\\FPS\\Scripts\\Game\\Actor.cs",
+              "RelativeDocumentMoniker": "Assets\\Unity Base Project\\FPS\\Scripts\\Game\\Actor.cs",
+              "ToolTip": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\Unity Base Project\\FPS\\Scripts\\Game\\Actor.cs",
+              "RelativeToolTip": "Assets\\Unity Base Project\\FPS\\Scripts\\Game\\Actor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:34:24.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleBaseEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\_SAE_Starting_Point\\Scripts\\SimpleBaseEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\_SAE_Starting_Point\\Scripts\\SimpleBaseEnemy.cs",
+              "ToolTip": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\_SAE_Starting_Point\\Scripts\\SimpleBaseEnemy.cs",
+              "RelativeToolTip": "Assets\\_SAE_Starting_Point\\Scripts\\SimpleBaseEnemy.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwFMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:32:25.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\Unity Base Project\\FPS\\Scripts\\Game\\Shared\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Unity Base Project\\FPS\\Scripts\\Game\\Shared\\Health.cs",
+              "ToolTip": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\Unity Base Project\\FPS\\Scripts\\Game\\Shared\\Health.cs",
+              "RelativeToolTip": "Assets\\Unity Base Project\\FPS\\Scripts\\Game\\Shared\\Health.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:27:03.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UITableEditor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\Unity Base Project\\FPS\\Scripts\\Editor\\UITableEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Unity Base Project\\FPS\\Scripts\\Editor\\UITableEditor.cs",
+              "ToolTip": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\Unity Base Project\\FPS\\Scripts\\Editor\\UITableEditor.cs",
+              "RelativeToolTip": "Assets\\Unity Base Project\\FPS\\Scripts\\Editor\\UITableEditor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:25:40.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UITable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\Unity Base Project\\FPS\\Scripts\\UI\\UITable.cs",
+              "RelativeDocumentMoniker": "Assets\\Unity Base Project\\FPS\\Scripts\\UI\\UITable.cs",
+              "ToolTip": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\Unity Base Project\\FPS\\Scripts\\UI\\UITable.cs",
+              "RelativeToolTip": "Assets\\Unity Base Project\\FPS\\Scripts\\UI\\UITable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:25:24.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "enemy.cs",
+              "DocumentMoniker": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\scripts\\enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\enemy.cs",
+              "ToolTip": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\scripts\\enemy.cs",
+              "RelativeToolTip": "Assets\\scripts\\enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T11:16:46.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "folowers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\scripts\\folowers.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\folowers.cs",
+              "ToolTip": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\scripts\\folowers.cs",
+              "RelativeToolTip": "Assets\\scripts\\folowers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T11:16:35.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bullet.cs",
+              "DocumentMoniker": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\scripts\\bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\bullet.cs",
+              "ToolTip": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\scripts\\bullet.cs",
+              "RelativeToolTip": "Assets\\scripts\\bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T11:15:11.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "spawn eneymy.cs",
+              "DocumentMoniker": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\scripts\\spawn eneymy.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\spawn eneymy.cs",
+              "ToolTip": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\scripts\\spawn eneymy.cs",
+              "RelativeToolTip": "Assets\\scripts\\spawn eneymy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T11:16:28.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "shooting.cs",
+              "DocumentMoniker": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\scripts\\shooting.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\shooting.cs",
+              "ToolTip": "C:\\Users\\user\\gad176-abdelrahman\\gad176\\gad 176 p1 t1\\Assets\\scripts\\shooting.cs",
+              "RelativeToolTip": "Assets\\scripts\\shooting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T11:16:18.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
